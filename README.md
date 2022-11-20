@@ -6,7 +6,7 @@
     - [11/17 수업소스](day1117/code_lab1.ipynb)
   - 11/16일 수업
 ## 기본 문법 정리
-  - [시퀀스](code/Sequence_0.ipynb)
+  - [컬렉션](code/Sequence_0.ipynb)
   - [파일](code/File_0.ipynb)
   - [함수](code/.ipynb)
 ## 매일매일 파이썬!!!
