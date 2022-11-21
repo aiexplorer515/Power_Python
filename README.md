@@ -15,3 +15,4 @@
 ## 매일매일 파이썬!!!
   - 알고리즘
   - 문제풀이
+    -[클래스](code/code_practice_class.ipynb)
