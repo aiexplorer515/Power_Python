@@ -2,6 +2,7 @@
 ## 파이썬 수업 
   - 11/22일 수업(크롤링 실습)
     - [네이버 영화랭킹(221117~221121)](task/221122.ipynb)
+    - [네이버 상영예정작](task/백경희_상영예정.ipynb)
   - 11/21일 수업(Http네트워크 / 크롤링 / 데이터 처리)
     - [requests 모듈](task/데이터크롤링1-02requests.ipynb)
     - [Beautifulsoup 모듈](task/데이터크롤링1-03BS4_Start.ipynb)
