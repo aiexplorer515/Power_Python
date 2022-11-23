@@ -1,0 +1,14 @@
+pyenv install -l|findstr 3.10
+pyenv install -l|grep 3.10
+pip freeze|grep jupyter
+pip freeze > requirements.txt  : 설치SW list 백업
+notepad requirements.txt
+deactivate
+
+
+python -m venv .venv/Python_Friday
+
+pip install -r ./requirements.txt  :
+>= 로 변경시 upgrade 버전으로 설치
+
+python.exe -m pip install --upgrade pip
