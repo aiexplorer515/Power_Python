@@ -1,5 +1,7 @@
 # Power_Python
 ## 파이썬 수업 
+  - 11/24일 수업(OpenAPI)
+    - [오픈뱅킹 농협 API](task/농협API.ipynb)
   - 11/23일 수업(함수적용)
     - [네이버 상영예정작](task/백경희_상영예정.ipynb)
     - [네이버 영화랭킹](task/백경희_영화랭킹.ipynb)    
