@@ -20,7 +20,7 @@
 ## 기본 문법 정리
   - [컬렉션](code/Sequence_0.ipynb)
   - [파일](code/File_0.ipynb)
-  - [함수](code/.ipynb)
+  - [함수](code/1-06Function.ipynb)
 ## 매일매일 파이썬!!!
   - 알고리즘
   - 문제풀이
