@@ -30,3 +30,5 @@
   - 알고리즘
   - 문제풀이
       - [클래스](code/code_practice_class.ipynb)
+# 참고사이트
+파이썬으로 다시 배우는 핵심고등수학: https://github.com/wikibook/python-math
