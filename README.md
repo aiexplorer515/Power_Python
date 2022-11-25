@@ -1,5 +1,10 @@
 # Power_Python
 ## 파이썬 수업 
+  - 11/25일 수업(Numpy와 Pandas)
+    1. NumPy(code/2-01NumPy1-Tutorial_0.ipynb)
+    1. NumPy 기본연산(code/2-01NumPy2-Op.ipynb)
+    1. Pandas Series(code/2-04Pandas_Series-0.ipynb)
+    1. Pandas Dataframe(code/2-05Pandas_DataFrame-0.ipynb)
   - 11/24일 수업(OpenAPI)
     - [오픈뱅킹 농협 API](task/오픈뱅킹-NH.ipynb)
   - 11/23일 수업(함수적용)
