@@ -31,5 +31,5 @@
   - 문제풀이
       - [클래스](code/code_practice_class.ipynb)
 # 참고사이트
-파이썬으로 다시 배우는 핵심고등수학: https://github.com/wikibook/python-math
-해커톤: https://www.contestkorea.com/sub/list.php?int_gbn=1&Txt_bcode=030220003
+  파이썬으로 다시 배우는 핵심고등수학: https://github.com/wikibook/python-math
+  해커톤: https://www.contestkorea.com/sub/list.php?int_gbn=1&Txt_bcode=030220003
