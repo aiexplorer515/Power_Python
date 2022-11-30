@@ -1,5 +1,10 @@
 # Power_Python
 ## 파이썬 수업 
+  - 11/29일 수업(판다스 연습 및 시각화)
+    - [판다스연습튜토리얼 1~20](code/2-Pandas-연습_튜토리얼_19Q.ipynb)
+    - [판다스연습튜토리얼 21~43](code/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
+    - [판다스연습 시각화 matplot](code/2-Pandas-연습-시각화matplot-20Q.ipynb)
+    - [초심자를 위한 데이터시각화 EDA](https://medium.com/bondata/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-eda-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%8B%A4%EC%8A%B5-62d11f93e17e)
   - 11/25일 수업(Numpy와 Pandas)
     - [NumPy](code/2-01NumPy1-Tutorial_0.ipynb)
     - [NumPy 기본연산](code/2-01NumPy2-Op.ipynb)
