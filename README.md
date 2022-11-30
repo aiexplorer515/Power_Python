@@ -7,6 +7,7 @@
     - [초심자를 위한 데이터시각화 EDA](https://medium.com/bondata/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-eda-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%8B%A4%EC%8A%B5-62d11f93e17e)
    - 11/28일 수업(파이썬 데이터 분석 시각화 소개)
      - [파이썬 데이터분석을 위한 시각화 라이브러리](https://modulabs.co.kr/blog/python-data-analysis-matplotlib-seaborn-etc/#:~:text=Matplotlib%20vs%20seaborn,-Matplotlib%20%EB%8A%94%20%EC%A7%80%EC%86%8D%EC%A0%81&text=%EC%88%98%EB%A7%8E%EC%9D%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC%20%EC%A0%9C%EA%B3%B5,%EB%90%9C%20Python%20%ED%94%8C%EB%A1%9C%ED%8C%85%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9E%85%EB%8B%88%EB%8B%A4.)  
+     - [matplotlib vs seaborn](https://datauntold.com/matplotlib-vs-seaborn/)
   - 11/25일 수업(Numpy와 Pandas)
     - [NumPy](code/2-01NumPy1-Tutorial_0.ipynb)
     - [NumPy 기본연산](code/2-01NumPy2-Op.ipynb)
