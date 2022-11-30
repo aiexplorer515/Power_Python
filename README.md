@@ -1,6 +1,6 @@
 # Power_Python
 ## 파이썬 수업
-    - 11/29일 수업(판다스 연습 및 시각화)
+   - 11/29일 수업(판다스 연습 및 시각화)
       - [판다스연습튜토리얼 1~20](code/2-Pandas-연습_튜토리얼_19Q.ipynb)
       - [판다스연습튜토리얼 21~43](code/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
       - [판다스연습 시각화 matplot](code/2-Pandas-연습-시각화matplot-20Q.ipynb)
