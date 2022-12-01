@@ -41,7 +41,8 @@
 # 참고사이트
   - 파이썬으로 다시 배우는 핵심고등수학: https://github.com/wikibook/python-math  
   - 해커톤: https://www.contestkorea.com/sub/list.php?int_gbn=1&Txt_bcode=030220003
-  - 핑크윙크: https://pinkwink.kr/
+  - 핑크윙크:
+    -  https://pinkwink.kr/
     - https://pinkwink.kr/1399
   - 파이썬 데이터 분석 시각화
     - [파이썬 데이터분석을 위한 시각화 라이브러리(matplotlib, seaborn,etc)](https://modulabs.co.kr/blog/python-data-analysis-matplotlib-seaborn-etc/#:~:text=Matplotlib%20vs%20seaborn,-Matplotlib%20%EB%8A%94%20%EC%A7%80%EC%86%8D%EC%A0%81&text=%EC%88%98%EB%A7%8E%EC%9D%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC%20%EC%A0%9C%EA%B3%B5,%EB%90%9C%20Python%20%ED%94%8C%EB%A1%9C%ED%8C%85%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9E%85%EB%8B%88%EB%8B%A4.)
