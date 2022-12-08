@@ -1,5 +1,6 @@
 # AI 핀테크 엔지니어(기초)
 
+![핀테크 실무기술](img_700.png)
 # [트랙 #1: 파이썬](track_1.md)
 1. 개발환경 및 파이썬
 1. 크롤링
@@ -7,7 +8,7 @@
 # [트랙 #2: 머신러닝]
 # [트랙 #3]
 # [트랙 #4]
-![핀테크 실무기술](img_1.png)
+
 # 참고사이트
 1. Google Colab
    - [google_colab_matplotlib(202209).ipynb](notebooks/google_colab_matplotlib(202209).ipynb)
