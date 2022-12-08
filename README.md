@@ -11,7 +11,7 @@
 
 # 참고사이트
 1. Google Colab
-   - [google_colab_matplotlib(202209).ipynb](notebooks/google_colab_matplotlib_202209.md)
+   - [google_colab_matplotlib(202209)](task/google_colab_matplotlib_202209.md)
 
 2. git
     - [git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
