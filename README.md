@@ -7,7 +7,7 @@
 # [트랙 #2: 머신러닝]
 # [트랙 #3]
 # [트랙 #4]
-![핀테크 실무기술](img_1.PNG)
+![핀테크 실무기술](img_1.png)
 # 참고사이트
 1. Google Colab
    - [google_colab_matplotlib(202209).ipynb](notebooks/google_colab_matplotlib(202209).ipynb)
