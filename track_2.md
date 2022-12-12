@@ -1,1 +1,1 @@
-12/12일|수업| - [Decision Tree](Decision Tree1 copy.pdf)
+12/12일|수업| - [Decision Tree](Decision_Tree1_copy.pdf)
