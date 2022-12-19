@@ -9,3 +9,4 @@
 # 참고도서 및 사이트
   - Pattern recognition and Machine learning
   - https://www.acmicpc.net/workbook/top
+  - https://peps.python.org/pep-0008/
