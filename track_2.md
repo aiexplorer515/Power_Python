@@ -4,7 +4,7 @@
 ~|~|descriptive feature metrics
 12/16일|~| - [Decision Tree]
 12/20일|~| 파이썬Lv1
-12/21일|~| [파이썬Lv1](code/python_lv1.py
+12/21일|~| [파이썬Lv1](code/python_lv1.py)
 
 
 # 참고도서 및 사이트
