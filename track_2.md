@@ -3,8 +3,8 @@
 12/12일|의사결정나무| - [Decision Tree](task/Decision_Tree1_copy.pdf)
 ~|~|descriptive feature metrics
 12/16일|~| - [Decision Tree]
-12/20일|파이썬Lv1| 파이썬Lv1
-12/21일|파이썬Lv1| [기본문법](code/python_lv1.py)
+12/20일|파이썬Lv1| 기본문법
+12/21일|파이썬Lv1| [기초통계,벡터](code/python_lv1.py)
 
 
 # 참고도서 및 사이트
