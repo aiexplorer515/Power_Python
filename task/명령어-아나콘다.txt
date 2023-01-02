@@ -1,0 +1,24 @@
+conda env list
+conda create -n SBA
+conda activate SBA
+conda deactivate
+conda install -c anaconda python
+user-env ~user/anaconda3/envs/SBA
+conda config --set ssl_verify no -> 보안문제로 python 설치오류시
+conda install -c anaconda numpy
+conda list
+
+
+matplitlib 오류
+
+Traceback (most recent call last):
+  File "C:\Users\SBAUser\PycharmProjects\pythonProject\code.py", line 2, in <module>
+    import matplotlib.pyplot as plt
+  File "C:\Users\SBAUser\anaconda3\envs\SBB\lib\site-packages\matplotlib\__init__.py", line 109, in <module>
+    from packaging.version import parse as parse_version
+  File "C:\Users\SBAUser\anaconda3\envs\SBB\lib\site-packages\packaging\version.py", line 13, in <module>
+    from typing import Callable, Optional, SupportsInt, Tuple, Union
+ImportError: cannot import name 'Callable' from 'typing' (C:\Users\SBAUser\PycharmProjects\pythonProject\typing.py)
+
+1. 확인사항 : 프롬프트 상에서 import 되는지. OK
+2. 파일명 문제. 새 프로젝트로 해결
